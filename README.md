@@ -35,7 +35,7 @@ This function handles user interaction:
 - Reads user input.
 - Clears the console.
 - Displays the user input.
-- Calls generate_groq_prompt to get the assistant's response.
+- Calls `generate_groq_prompt` to get the assistant's response.
 - Displays the assistant's response in formatted output.
 
 ## Example
