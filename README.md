@@ -1,4 +1,4 @@
-# Groq Chat Assistant
+# Chat Assistant
 
 This Python script interacts with the Groq API to provide conversational assistance based on user prompts.
 
