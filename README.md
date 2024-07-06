@@ -42,7 +42,7 @@ This function handles user interaction:
 ```bash
 python chat_assistant.py
 ```
-```bash
+```txt
 Assistant: Hello and welcome.! How can I assist you today?
 User: What is the weather like today?
 Assistant: Today's weather is sunny with a high of 28°C.
